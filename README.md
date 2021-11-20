@@ -10,5 +10,3 @@ git push -u origin main
 git remote add origin https://github.com/ixhxqrqqrq/H745ZI.git
 git branch -M main
 git push -u origin main
-# H745ZI
-# H74daf
